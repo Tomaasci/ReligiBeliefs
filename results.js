@@ -655,7 +655,7 @@ function onImageLoaded() {
         {
           key: "c",
           color0: "#a425b6",
-          color1: "#34b634",
+          color1: "#ab0b00",
           name0: "Constructivism",
           name1: "Essentialism"
         },
